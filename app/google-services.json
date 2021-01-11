@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888134454583",
+    "project_id": "text-from-image-972e6",
+    "storage_bucket": "text-from-image-972e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888134454583:android:2cf3b9935d08a5fb9e5eb2",
+        "android_client_info": {
+          "package_name": "com.azhar.textfromimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888134454583-i0hr2nfkrilgpvis08qd3k7bm5n300ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQUfQCy662n9FjBYYOasuJz2030gwLQXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888134454583-i0hr2nfkrilgpvis08qd3k7bm5n300ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
